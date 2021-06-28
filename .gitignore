@@ -1,0 +1,5 @@
+main
+*.zip
+.env
+go-lambda-api
+main
